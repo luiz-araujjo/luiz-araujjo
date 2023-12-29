@@ -8,7 +8,7 @@
 
 - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html icon" width="30" height="30">
 - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css icon" width="30" height="30">
-- JavaScrpt <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript icon" width="30" height="30"> ...in progress... <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript icon" width="30" height="30"> ...in progress... <img src="./assets/img/loading.gif" alt="loading icon" width="20" height="20">
 ---
 <div>
   <a href= "https://github.com/luiz-araujjo">
