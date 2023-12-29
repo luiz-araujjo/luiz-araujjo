@@ -1,6 +1,6 @@
 ### Hi I'm Luiz 👋🏼
 
-- 💻 I’m currently learning HTML5, CSS3 and JavaScript.
+- 💻 I’m currently learning JavaScript.
 - 🤝🏼 I’m looking to collaborate on projects to improve my skills and learn more.
 
 ---
