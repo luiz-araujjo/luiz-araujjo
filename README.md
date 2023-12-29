@@ -4,6 +4,7 @@
 - 🤝🏼 I’m looking to collaborate on projects to improve my skills and learn more.
 
 ---
+<!-- ******************************************************** TECHNOLOGIES *************************************************************** -->
 
 🔘 Technologies
 
@@ -13,6 +14,8 @@
    <img src="./gifs/loading.gif" alt="loading icon" width="20" height="20"> loading <img src="./gifs/loading.gif" alt="loading icon" width="20" height="20">
 ---
 
+<!-- ************************************************************** STATS **************************************************************** -->
+
 <div>
   <a href= "https://github.com/luiz-araujjo">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-araujjo&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />   
@@ -20,7 +23,7 @@
 
 ---
 
-<!-- **************************************************************** CONTATO **************************************************************** -->
+<!-- ************************************************************ CONTATO **************************************************************** -->
 
 <div align="center">
 
