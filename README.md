@@ -1,7 +1,8 @@
 ### Hi I'm Luiz 👋🏼
 
+- ✅ Front End Web Developer Student.
 - 💻 I’m currently learning JavaScript.
-- 🤝🏼 I’m looking to collaborate on projects to improve my skills and learn more.
+- 🤝🏼 Looking to collaborate on projects to improve my skills and learn more.
 
 ---
 <!-- ******************************************************** TECHNOLOGIES *************************************************************** -->
